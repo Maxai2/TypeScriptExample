@@ -1,0 +1,11 @@
+tsLint install package
+
+node.js install
+
+npm
+
+tsc script1.ts
+
+tsc -w script1.ts cars.ts
+
+npm install -g typescript
